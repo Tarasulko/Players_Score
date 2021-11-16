@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Players_Score/static/css/main.2a50cfe1.chunk.css",
+    "main.js": "/Players_Score/static/js/main.e12e3733.chunk.js",
+    "main.js.map": "/Players_Score/static/js/main.e12e3733.chunk.js.map",
+    "runtime-main.js": "/Players_Score/static/js/runtime-main.40476d41.js",
+    "runtime-main.js.map": "/Players_Score/static/js/runtime-main.40476d41.js.map",
+    "static/css/2.383c0125.chunk.css": "/Players_Score/static/css/2.383c0125.chunk.css",
+    "static/js/2.c9ad106d.chunk.js": "/Players_Score/static/js/2.c9ad106d.chunk.js",
+    "static/js/2.c9ad106d.chunk.js.map": "/Players_Score/static/js/2.c9ad106d.chunk.js.map",
+    "index.html": "/Players_Score/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Players_Score/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.2a50cfe1.chunk.css.map": "/Players_Score/static/css/main.2a50cfe1.chunk.css.map",
+    "static/js/2.c9ad106d.chunk.js.LICENSE.txt": "/Players_Score/static/js/2.c9ad106d.chunk.js.LICENSE.txt",
+    "static/media/TablePlayers.css": "/Players_Score/static/media/arrow.9dd30316.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40476d41.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.c9ad106d.chunk.js",
+    "static/css/main.2a50cfe1.chunk.css",
+    "static/js/main.e12e3733.chunk.js"
+  ]
+}
